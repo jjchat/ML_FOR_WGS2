@@ -1,3 +1,2 @@
 # ML_FOR_WGS2
-The dataset and ML codes to generate the results of the article (will be appeared soon):
-https://pubs.acs.org/doi/10.1021/acscatal.3c04467
+Description: Here, we provide the curated dataset and the XGBoost, ANN, and Ensemble codes to validate our 10-fold cross-validation performance reported in the article: J. Chattoraj, B. Hamadicharef, Y.N.A. Syadzali, G.O. Limantara, Y. Zeng, C.K. Poh, L. Chen, T.L. Tan, “Preparation of a Water–Gas Shift Database to Evaluate the Performance of Noble Metal Catalysts Using Theory-Guided Machine Learning”, ACS Catalysis 2023 (https://pubs.acs.org/doi/10.1021/acscatal.3c04467).
